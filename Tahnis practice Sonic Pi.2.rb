@@ -1,9 +1,4 @@
-#sample :loop_amen, attack: 2
-#sleep 5
-#sample :loop_amen, release: 0.75
-#sleep 5
-#sample :loop_amen, attack: 0.75, release: 0.75
-#sleep 5
+#This is some of my practice work using Sonic Pi 
 sample :drum_cymbal_open
 sleep 1
 sample :drum_cymbal_open
