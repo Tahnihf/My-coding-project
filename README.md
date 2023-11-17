@@ -19,6 +19,7 @@ File names:
 - Linda O Keeffe's Tutorials via Wismos website
 - Mister Bomb's Youtube video: Sonic Pi Tutorial - Using Loop Samples
 - Raspberry Pi Foundation’s tutorials
+
 These are some of the tutorials, websites and Youtube videos I viewed, watched and progressed through which taught me lessons regarding how to use Sonic Pi and the program's codes. 
 
 File name:
