@@ -12,6 +12,8 @@ Sonic Pi uses the coding language Ruby, and my song incorporates different sampl
 
 Other important files for my tutor to view is:
 
+File name: A3 Video.mp4 - My walkthrough video of my project and my design choices and its key features.
+
 File name: Bank of codes.docx - I created this bank of codes during my progress of developing my project. It holds all of the neccesary codes I learnt when interacting with tutorials, resources, websites and Youtube videos. It also has my own definition of their functions for me to easily understand which I referred back to while I was creating my final project. 
 
 File names: 
