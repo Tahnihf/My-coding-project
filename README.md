@@ -8,7 +8,7 @@ To listen to my song, download Sonic Pi and copy and paste the lines of code int
 
 I was inspired by the genres of afropop, R&B and house music in the creation of my project and some of my favourite songs which provided me with inspiration can be found via the file named: Spotify inspiration.png which is a screenshot of my playlist on Spotify I made.
 
-Sonic Pi uses the coding language Ruby, and my song incorpoates different samples, beats, bass sounds and tabla drum sounds. 
+Sonic Pi uses the coding language Ruby, and my song incorporates different samples, beats, bass sounds and tabla drum sounds. 
 
 Other important files for my tutor to view is:
 
