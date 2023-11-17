@@ -1,3 +1,4 @@
+#This is some of my practice work using Sonic Pi 
 in_thread do
   loop do
     cue [:foo, :bar, :baz].choose
