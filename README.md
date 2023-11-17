@@ -3,8 +3,11 @@
 Hi guys! This Git Repositary stores all of the files relevant to my Code Project
 
 My final Code Project is a 75 second song I created using Sonic Pi and you can find it via the file named: Tahni's Final Sonic Pi Code Project.rb 
+
 To listen to my song, download Sonic Pi and copy and paste the lines of code into that computer program and then press run 
+
 I was inspired by the genres of afropop, R&B and house music in the creation of my project and some of my favourite songs which provided me with inspiration can be found via the file named: Spotify inspiration.png which is a screenshot of my playlist on spotify I made
+
 Sonic Pi uses the coding language Ruby, and my song incorpoates different samples, beats, bass sounds and tabla drum sounds. 
 
 Other important files for my tutor to view is:
