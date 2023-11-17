@@ -15,11 +15,11 @@ Other important files for my tutor to view is:
 File name: Bank of codes.docx - I created this bank of codes during my progress of developing my project. It holds all of the neccesary codes I learnt when interacting with tutorials, resources, websites and Youtube videos. It also has my own definition of their functions for me to easily understand which I referred back to while I was creating my final project. 
 
 File names: 
-Levi Niha's Youtube video: Making Music with Code (Using Sonic Pi)
-Linda O Keeffe's Tutorials via Wismos website
-Mister Bomb's Youtube video: Sonic Pi Tutorial - Using Loop Samples
-Raspberry Pi Foundation’s tutorials
-- These are some of the tutorials, websites and Youtube videos I viewed, watched and progressed through which taught me lessons regarding how to use Sonic Pi and the program's codes 
+- Levi Niha's Youtube video: Making Music with Code (Using Sonic Pi)
+- Linda O Keeffe's Tutorials via Wismos website
+- Mister Bomb's Youtube video: Sonic Pi Tutorial - Using Loop Samples
+- Raspberry Pi Foundation’s tutorials
+These are some of the tutorials, websites and Youtube videos I viewed, watched and progressed through which taught me lessons regarding how to use Sonic Pi and the program's codes 
 
 File name:
 Twinkle Twinkle Little star .rb - This is my experimentation when coding the song Twinkle Twinkle Little Star using Sonic Pi
