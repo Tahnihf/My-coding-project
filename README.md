@@ -1,12 +1,12 @@
 # Mycodingproject
 
-Hi guys! This Git Repositary stores all of the files relevant to my Code Project
+Hi guys! This Git Repositary stores all of the files relevant to my Code Project.
 
-My final Code Project is a 75 second song I created using Sonic Pi and you can find it via the file named: Tahni's Final Sonic Pi Code Project.rb 
+My final Code Project is a 75 second song I created using Sonic Pi and you can find it via the file named: Tahni's Final Sonic Pi Code Project.rb. 
 
-To listen to my song, download Sonic Pi and copy and paste the lines of code into that computer program and then press run 
+To listen to my song, download Sonic Pi and copy and paste the lines of code into that computer program and then press run. 
 
-I was inspired by the genres of afropop, R&B and house music in the creation of my project and some of my favourite songs which provided me with inspiration can be found via the file named: Spotify inspiration.png which is a screenshot of my playlist on spotify I made
+I was inspired by the genres of afropop, R&B and house music in the creation of my project and some of my favourite songs which provided me with inspiration can be found via the file named: Spotify inspiration.png which is a screenshot of my playlist on spotify I made.
 
 Sonic Pi uses the coding language Ruby, and my song incorpoates different samples, beats, bass sounds and tabla drum sounds. 
 
@@ -19,10 +19,10 @@ File names:
 - Linda O Keeffe's Tutorials via Wismos website
 - Mister Bomb's Youtube video: Sonic Pi Tutorial - Using Loop Samples
 - Raspberry Pi Foundation’s tutorials
-These are some of the tutorials, websites and Youtube videos I viewed, watched and progressed through which taught me lessons regarding how to use Sonic Pi and the program's codes 
+These are some of the tutorials, websites and Youtube videos I viewed, watched and progressed through which taught me lessons regarding how to use Sonic Pi and the program's codes. 
 
 File name:
-Twinkle Twinkle Little star .rb - This is my experimentation when coding the song Twinkle Twinkle Little Star using Sonic Pi
+Twinkle Twinkle Little star .rb - This is my experimentation when coding the song Twinkle Twinkle Little Star using Sonic Pi.
 
 
 
